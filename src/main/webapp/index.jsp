@@ -49,7 +49,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Myntra orange</h1>
+        <h1>Welcome to Myntra red</h1>
         <nav>
             <ul>
                 <li><a href="index.jsp">Home</a></li>
