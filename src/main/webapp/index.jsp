@@ -49,7 +49,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Myntra red</h1>
+        <h1>Welcome to Myntra automated website done through jenkins cicd pipeline</h1>
         <nav>
             <ul>
                 <li><a href="index.jsp">Home</a></li>
